@@ -1,0 +1,9 @@
+- HR Data Analysis 
+- Leveraging the functionality of Power BI Service, 
+- I have created an interactive dashboard with advanced features like conditional formatting, 
+  new measures and columns, pivot tables, and data modeling.
+- This task involves importing and transforming employee data from Excel, creating basic visualizations like a bar chart 
+  for department distribution, and implementing features like slicers for filtering based on job roles in Power BI. 
+- It also covers more advanced concepts such as joining data from different sources, calculating age groups 
+  and attrition rates, and using DAX for measures and time intelligence. The goal is to create dynamic 
+  and interactive reports that provide valuable insights into employee data.
