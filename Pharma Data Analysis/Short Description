@@ -1,0 +1,11 @@
+- Created report on pharmacy data using Power BI. 
+- The report explores sales insights based on country, time series, products, sales teams, and distributors. 
+- I used advanced visualizations like animated bar charts, word clouds, categorical and numerical slicers,
+  multi-row cards, decomposition trees, KPIs, waterfall charts, donut charts, funnel charts, scatter plots, filled maps, drill-through, gauge charts, and ribbon charts.
+- This task involves creating a Tableau data model with appropriate data sources and tables, establishing data relationships, 
+  and optimizing performance with a star schema. 
+- It also includes implementing row-level security, calculating sales metrics using both calculated fields and 
+  measures, and utilizing Tableau features for time intelligence, ranking, and drill-through capabilities. 
+- Additionally, the task covers using custom visuals, actions, and conditional formatting to enhance the presentation
+  of sales data and provide interactive user experiences.
+- I am excited to share the dynamic insights and trends that I uncovered in the world of pharmaceuticals!
